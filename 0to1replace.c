@@ -1,4 +1,4 @@
-
+// This program job is to replace 0 to 1 in any given number,for example if we take 120035, then uotput of this program will be 121135.
 #include<stdio.h>
 #include<string.h>
 #include<math.h>
@@ -30,4 +30,5 @@ int main()
     return 0;
 
 }
+
 
